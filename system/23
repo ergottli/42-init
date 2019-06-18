@@ -1,0 +1,8 @@
+#1.Install graphic shell on server.
+#install program for remote control of computers(f.e. Team Viewer).
+#connect to remote computer.
+#change user using graphic shell.
+
+#2.for SSH.
+#exit from current session.
+#start new session with new user.

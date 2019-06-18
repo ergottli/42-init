@@ -1,0 +1,1 @@
+#in internal web we have internal ip. when in traceroute output we see last node with internal addres(10.0.0./8, 172.16.0.0/12 or 192.168.0.0/16), we understand, that it is NAT(Network Addres Translation).

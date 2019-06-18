@@ -1,0 +1,7 @@
+#cat /var/run/resolv.conf
+
+#/var is a symbolic link to the var directory.
+#/var may store log, configuration files of processes controlling the operating system.
+#/var/run Stores various information about the status of system processes, especially daemons running on the system.
+#resolv.conf - File with settings for resolver.
+#resolver is a set of routines in the C library that provide access to Internal DNS.

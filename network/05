@@ -1,0 +1,1 @@
+nslookup -query=ns slash16.org | grep "internet address" | awk '{print $5}' 

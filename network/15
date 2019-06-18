@@ -1,0 +1,2 @@
+We can change ip address in /etc/hosts for intra.42.fr from 192.168.50.10 to 46.19.122.85 
+by using entry like '46.19.122.85 intra.42.fr' 

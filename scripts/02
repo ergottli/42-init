@@ -1,0 +1,2 @@
+#!/bin/bash
+LLOGUSER=$(last | grep -v reboot | grep -v root | awk '{print $1}') && pkill -u $LLOGUSER && userdel $LLOGUSER

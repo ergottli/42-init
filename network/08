@@ -1,0 +1,3 @@
+#nslookup slash16.org | grep -v # | grep 'Address: ' | awk '{print $2}''
+#By this command we can find server's address.
+#Than we go to google or f.e dp-ip.com and find provider using this address.

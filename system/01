@@ -1,0 +1,2 @@
+# In /etc/os-release we will find current OS version
+# using this command: cat /etc/os-release | grep 'VERSION='

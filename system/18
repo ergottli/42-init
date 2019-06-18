@@ -1,0 +1,1 @@
+SSHPID=$(ps aux | grep sshd | head -1 | awk '{print $2}') && kill $SSHPID

@@ -1,0 +1,4 @@
+#~/user/.ssh/authorized_keys
+#when we connect to the server using ssh-client,
+#server see authorized keys in their own directory
+#and provides acces to server by user if keys match.

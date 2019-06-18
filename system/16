@@ -1,0 +1,9 @@
+#cron is a classic daemon for unix system. 
+#it used for periodic launch of tasks.
+#for every user there is their own crontab with tasks.
+# f.e.: * * * * * /your/script/program
+#1. minute (0 - 59).
+#2. hour (0 - 23).
+#3. day (1 - 31).
+#4. month (1 - 12)
+#5. day of week (0 - 6) (sunday =0 or =7) depending on system's config.
